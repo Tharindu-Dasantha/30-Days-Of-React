@@ -1,6 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+const headerStyles = {
+	fontFamily: 'Helvetica Neue',
+	padding: 25,
+	lineHeight: 1.5,
+}
+
 const header = (
 	<header>
 	<h1>Welcome to 30 Days of React </h1>
